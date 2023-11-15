@@ -12,6 +12,8 @@
 
 [![Step 2, Find a commit in history](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/2-find-commit-in-history.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/2-find-commit-in-history.yml)
 
+[![Step 3, Fix a broken sidebar](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/3-fix-broken-sidebar.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/3-fix-broken-sidebar.yml)
+
 # Connect the dots in a GitHub repository
 
 _Useful tips when navigating through your repository._
