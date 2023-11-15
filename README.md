@@ -6,6 +6,7 @@
   In your repository settings: enable template repository, add your 1280x640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+[![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/0-welcome.yml)
 
 # Connect the dots in a GitHub repository
 
