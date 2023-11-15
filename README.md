@@ -8,6 +8,8 @@
 -->
 [![Step 0, Welcome](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/0-welcome.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/0-welcome.yml)
 
+[![Step 1, Resolve duplicate issues](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/1-resolve-duplicate-issues.yml/badge.svg)](https://github.com/kenedyolisi/github-skills-connect-the-dots/actions/workflows/1-resolve-duplicate-issues.yml)
+
 # Connect the dots in a GitHub repository
 
 _Useful tips when navigating through your repository._
